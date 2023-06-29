@@ -57,6 +57,7 @@ width:99%
     font-size: 1.125rem;
     width: 50%;
     border-color: transparent;
+    text-align: center;
 }
 .item .content .text:hover{
     cursor: context-menu;
@@ -65,8 +66,9 @@ width:99%
     font-size: 1.125rem;
     width: 50%;
     border-color: transparent;
-    border-left: 2px solid black;
+    border-left: 2px solid rgb(249, 230, 146);
     padding-left: 1rem;
+    text-align: center;
 
 }
 .item .content .date:hover{
@@ -81,4 +83,5 @@ width:99%
     font-weight: 700;
     font-size: 0.9rem;
     padding: 2px;
+   
 }

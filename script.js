@@ -75,6 +75,7 @@ function addItem(e){
     
     // remove the item from the input field after adding the list 
     input.value="";
+    date.value="";
 
     // funtion for the edit item
     edit_button.addEventListener('click', (e)=>{
